@@ -4,3 +4,4 @@ just install the 'requirements' file on cmd (i think) and then you should be abl
 have fun.
 give me feedback. as detailed as you can.
 also you can see the progression of the simulator by running the different 'code#' files. the higher the '#' the newer it is:)
+you can also check the releases for executables if you dont want to do all the cody cody typy typy hacky hacky type stuff:)
